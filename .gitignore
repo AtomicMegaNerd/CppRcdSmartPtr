@@ -1,5 +1,5 @@
-*~
-*.so
-*.o
 Debug
 CppRcdSmartPtr
+bin
+.project
+.cproject
